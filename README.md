@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Ihdam Maulana</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">Peternak Kambing Etawa Wonogiri</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihdamem&label=Profile%20views&color=0e75b6&style=flat" alt="ihdamem" /> </p>
 
