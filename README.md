@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Mbeee! 🐐 Halo, Saya Dimas Ihdam Maulana</h1>
+  <h1>Halo, Saya Dimas Ihdam Maulana</h1>
   <h3>Juragan Kambing Etawa Wonogiri (Nyambi Ngoding)</h3>
   <p><i>"Ngarit adalah jalan ninjaku. Kodingan error bisa di-debug, tapi kalau kambing masuk angin, itu urusan nyawa!"</i></p>
   <p>
@@ -19,7 +19,7 @@
 ### 🏆 Piala Bergilir Kontes Ternak
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ihdamem&theme=radical&margin-w=15" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ihdamem" alt="Trophy" />
   </a> 
 </p>
 
@@ -36,9 +36,9 @@
 ### 📈 Statistik "Koding Sambil Ngarit"
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihdamem&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihdamem&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihdamem&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihdamem&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihdamem&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihdamem&" alt="GitHub Streak" />
 </p>
