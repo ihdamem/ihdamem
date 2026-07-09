@@ -16,11 +16,10 @@
 - 💬 **Bisa Ditanya Soal:** Gimana bedain wedhus gembel sama etawa. Tapi kalau kepepet banget, boleh nanya soal **React, PHP, HTML, CSS, Javascript**.
 - 📫 **Jalur Asap:** Mau order susu murni, nawar kambing, atau nitip bug aplikasi? Langsung email ke **meansrev@gmail.com**.
 
-### 🏆 Piala Bergilir Kontes Ternak
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ihdamem" alt="Trophy" />
-  </a> 
+
+### 🐐 Gaas Aja Bang!!
+<p align="center">
+  <img src="https://media.tenor.com/EnLbMO0ObT4AAAAM/goat-walking-national-geographic.gif" alt="Kambing Jalan" width="300" style="border-radius: 10px;" />
 </p>
 
 ### 🤝 Mari Bersilaturahmi (Daripada Digrebek Warga)
@@ -36,9 +35,9 @@
 ### 📈 Statistik "Koding Sambil Ngarit"
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihdamem&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ihdamem&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihdamem&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ihdamem&show_icons=true&locale=en&layout=compact&v=1" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihdamem&" alt="GitHub Streak" />
 </p>
